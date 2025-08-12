@@ -28,7 +28,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️ ꜛ 3:) Ꮩꫝʀᴜɴ⚒一爱㜼» 😘❤️", threadID, messageID);
    };
 
-  if ((event.body.toLowerCase() == "uzair suno") || (event.body.toLowerCase() == "Uzair Suno")) {
+  if ((event.body.toLowerCase() == "Ꮩꫝʀᴜɴ suno") || (event.body.toLowerCase() == "Uzair Suno")) {
      return api.sendMessage("️HaN G PyaRy Bolo🥰", threadID, messageID);
    };
 
@@ -44,7 +44,7 @@ if ((event.body.toLowerCase() == "love you") || (event.body.toLowerCase() == "i 
      return api.sendMessage("️Boss⚒一爱㜼 💚✨ bolo owner ko❤️", threadID, messageID);
    };
 
-   if ((event.body.toLowerCase() == "Suno Uzair") || (event.body.toLowerCase() == "suno uzair")) {
+   if ((event.body.toLowerCase() == "Suno Ꮩꫝʀᴜɴ") || (event.body.toLowerCase() == "suno uzair")) {
      return api.sendMessage("️haN G Bolo🙄", threadID, messageID);
    };
 
@@ -71,7 +71,7 @@ if ((event.body.toLowerCase() == "love you") || (event.body.toLowerCase() == "i 
      return api.sendMessage("️kuch nhi bs kisi c silent love or work", threadID, messageID);
    };
 
-   if ((event.body.toLowerCase() == "It'x Uzair Aiman Rajput") || (event.body.toLowerCase() == "it'x uzair aiman rajput")) {
+   if ((event.body.toLowerCase() == "Ꮩꫝʀᴜɴ⚒一爱㜼") || (event.body.toLowerCase() == "it'x uzair aiman rajput")) {
      return api.sendMessage("️BOSS BUSY HAIN", threadID, messageID);
    };
 
@@ -83,8 +83,8 @@ if ((event.body.toLowerCase() == "love you") || (event.body.toLowerCase() == "i 
      return api.sendMessage("️Apna kam kaR thaRki SaliyaaA-😐🖐️", threadID, messageID);
    };
 
-   if ((event.body.toLowerCase() == "Kìrâñ") || (event.body.toLowerCase() == "kìrâñ")) {
-     return api.sendMessage("️Owner meRi hai 🥰", threadID, messageID);
+   if ((event.body.toLowerCase() == "Ꮩꫝʀᴜɴ") || (event.body.toLowerCase() == "kìrâñ")) {
+     return api.sendMessage("️Owner meRe hai 🥰", threadID, messageID);
    };
 
    if ((event.body.toLowerCase() == "kase ho") || (event.body.toLowerCase() == "kasi ho")) {
@@ -107,8 +107,8 @@ if ((event.body.toLowerCase() == "love you") || (event.body.toLowerCase() == "i 
      return api.sendMessage("️ThaRki JuTh Bol Rha Hai Isy Kon LoVe You Bole Ga🤣", threadID, messageID);
    };
 
-    if ((event.body.toLowerCase() == "diwani welcome karo") || (event.body.toLowerCase() == "im here ")) {
-     return api.sendMessage("️welcome owmer kìrâñ RajPööt ☠️🏴‍☠️", threadID, messageID);
+    if ((event.body.toLowerCase() == "Bot welcome karo") || (event.body.toLowerCase() == "im here ")) {
+     return api.sendMessage("️welcome owmer Ꮩꫝʀᴜɴ⚒一爱㜼 ☠️🏴‍☠️", threadID, messageID);
    };
 
    if ((event.body.toLowerCase() == "koi hamy bhi chummi dy do") || (event.body.toLowerCase() == "koi tu love you bol do yr")) {
