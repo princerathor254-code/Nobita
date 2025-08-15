@@ -550,9 +550,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
         body: `${rand}`
       }
   var msg = {
-    body: `💞👉${name} 💞👈
-༒<====🩷️🪽====>༒
-
+    body: `
 ${rand}                                         𝗖𝗿𝗲𝗱𝗶𝘁𝘀:𒁍Owner VaRuN ❥||ㅎ
 ༒<====🩷️🪽====>`
   }
